@@ -414,5 +414,5 @@ The project combines traditional machine learning and deep learning approaches, 
 
 ## 👩‍💻 Author
 
-**Silviya**  
+**Silviya X**  
 Medical Abstract Sentence Classifier — Biomedical NLP Project
